@@ -1,6 +1,6 @@
 This is my first attempt at Github webpage.
 
-####Table of Contents
+**Table of Contents**
 
 - [Build Details](#build-details)
   * [Build instructions](#build-instructions)
